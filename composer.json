@@ -1,0 +1,21 @@
+{
+    "name": "schevgeny/yii2-sphinx",
+    "description": "Yii2 sphinx api",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","sphinx"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "schevgeny",
+            "email": "schevgeny@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "schevgeny\\sphinx\\": ""
+        }
+    }
+}
