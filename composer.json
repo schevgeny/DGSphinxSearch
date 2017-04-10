@@ -1,21 +1,26 @@
 {
-    "name": "schevgeny/yii2-sphinx",
+    "name": "schevgeny/sphinx",
     "description": "Yii2 sphinx api",
-    "type": "yii2-extension",
+    "type": "library",
     "keywords": ["yii2","extension","sphinx"],
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "schevgeny",
             "email": "schevgeny@gmail.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
+    "support": {
+            "issues": "https://github.com/schevgeny/DGSphinxSearch/issues",
+            "source": "https://github.com/schevgeny/DGSphinxSearch"
     },
     "autoload": {
         "psr-4": {
             "schevgeny\\sphinx\\": ""
         }
+    },
+    "require": {
+        "php": "^5.3.3 || ^7.0"
     }
 }
