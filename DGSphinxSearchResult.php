@@ -1,6 +1,6 @@
 <?php
 
-namespace schevgeny\sphinx\models;
+namespace schevgeny\sphinx;
 
 /**
  * @class DGSphinxSearchResult

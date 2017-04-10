@@ -20,7 +20,7 @@
             "schevgeny\\sphinx\\": ""
         },
         "files": [ 
-            "sphinxapidefine.php",
+            "define.php",
             "functions.php"
         ]
     },
